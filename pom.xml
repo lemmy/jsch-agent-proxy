@@ -37,6 +37,7 @@
 -->
     <module>jsch-agent-proxy-usocket-nc</module>
     <module>jsch-agent-proxy-svnkit-trilead-ssh2</module>
+    <module>jsch-agent-proxy-fat</module>
   </modules>
 
   <properties>
